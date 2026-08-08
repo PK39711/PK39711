@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PK
-- I’m interested in Front-end Developer and Gaming
+- I’m interested in Fullstack Developer
 - I’m currently learning Business Intelligent and Data Analytics
-- FB:https://www.facebook.com/LuCiFerNz1/
+- FB:https://www.facebook.com/PK398/
 - IG:https://www.instagram.com/pk_.jpg/
