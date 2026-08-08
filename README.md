@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @PK
-- I’m interested in Fullstack Developer
-- I’m currently learning Business Intelligent and Data Analytics
-- FB:https://www.facebook.com/PK398/
-- IG:https://www.instagram.com/pk_.jpg/
+- I'm a Full-Stack Developer
+- I graduated with a Bachelor’s degree in Business Intelligence and Data Analytics.
